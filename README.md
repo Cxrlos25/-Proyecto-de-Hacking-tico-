@@ -2,10 +2,10 @@
 
 ## Entorno de trabajo
 Este repositorio presenta un análisis educativo sobre los riesgos de seguridad y privacidad asociados al uso indebido de permisos de geolocalización en aplicaciones y sitios web, desde un enfoque de hacking ético y concientización en ciberseguridad.
-¿Por qué se desarollo?
+**¿Por qué se desarollo?
 El proyecto se basa en el estudio de una prueba de concepto (PoC) que demuestra cómo un sitio web malicioso puede recolectar información sensible únicamente si el usuario otorga permisos explícitos, resaltando la importancia de no aceptar permisos sin verificar la legitimidad del sitio.
 
-Herramienta Analizada
+**Herramienta Analizada
 
 La herramienta estudiada es Seeker, un proyecto de código abierto que funciona como prueba de concepto, demostrando qué tipo de información puede ser recolectada por un sitio web si un usuario acepta permisos de ubicación.
 
