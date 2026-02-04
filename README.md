@@ -51,3 +51,4 @@ Este proyecto no tiene como finalidad identificar personas ni realizar seguimien
 ## Evidencia del laboratorio
 
 ![Evidencia en Kali Linux](img/kali-evidencia.png.jpeg)
+(img./evidencia2.jpeg)
