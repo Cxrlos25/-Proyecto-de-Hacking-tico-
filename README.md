@@ -47,3 +47,7 @@ La información de ubicación es estimada y depende de bases de datos públicas,
 
 ## Alcance del proyecto
 Este proyecto no tiene como finalidad identificar personas ni realizar seguimiento individual, sino demostrar de manera conceptual cómo funcionan ciertos mecanismos utilizados en pruebas de hacking ético y por qué es importante proteger la información en entornos digitales.
+
+## Evidencia del laboratorio
+
+![Evidencia en Kali Linux](img/kali-evidencia.png)
