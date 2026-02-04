@@ -7,7 +7,7 @@ Este repositorio presenta un análisis educativo sobre los riesgos de seguridad 
 
 El proyecto se basa en el estudio de una prueba de concepto (PoC) que demuestra cómo un sitio web malicioso puede recolectar información sensible únicamente si el usuario otorga permisos explícitos, resaltando la importancia de no aceptar permisos sin verificar la legitimidad del sitio.
 
-##Herramienta Analizada
+## Herramienta Analizada
 
 La herramienta estudiada es Seeker, un proyecto de código abierto que funciona como prueba de concepto, demostrando qué tipo de información puede ser recolectada por un sitio web si un usuario acepta permisos de ubicación.
 
